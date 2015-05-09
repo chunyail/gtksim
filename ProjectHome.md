@@ -1,0 +1,1 @@
+A GSM SIM Explorer that uses GTK and PCSC. All Implementation are purely written in C
